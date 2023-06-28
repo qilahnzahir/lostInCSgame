@@ -1,15 +1,15 @@
-# lostInCSgame
+## lostInCSgame
 text-based game in C++ for hackaton 2
-#### Description of your game.
+#### Game Description.
 
-## Features of your game.
+#### Features of game.
 
-## How to play your game.
+#### How to play your game.
 
-## How object-oriented concepts were used to develop your game.
+#### How object-oriented concepts were used to develop your game.
 
-## How linked lists/stacks/queues play a role in your game.
+#### How linked lists/stacks/queues play a role in your game.
 
-## Game screenshot.
+#### Game screenshot.
 
-## Game demo video link.
+#### Game demo video link.
