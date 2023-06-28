@@ -1,0 +1,10 @@
+1
+r
+b
+m
+ptr
+ptr&
+ptr= &x;
+o
+q
+N
