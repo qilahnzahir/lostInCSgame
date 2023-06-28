@@ -26,8 +26,9 @@ Nur Nabilah Zahra Shaifuzi
 2. Player can take action to move in diverse directions to move to the neighbour room and explore other room.
 3. The player is given mission as soon as they enter a room.
 4. To get a key, the player must complete the mission.
-5. The player can escape the school and win the game by obtaining four keys.
-6. To advance, the player can use items in the inventory, undo actions and save the game.
+5. Throughout the game, player can open the inventory and always check the collected keys after passed the mission in particular room. 
+7. The player can escape the school and win the game by obtaining four keys.
+8. To advance, the player can use items in the inventory, undo actions and save the game.
 
 This is our how to play to game: 
 1. F/f: Forward                                                     
