@@ -10,6 +10,6 @@ text-based game in C++ for hackaton 2
 
 ## How linked lists/stacks/queues play a role in your game.
 
-## Screenshots of your game.
+## Game screenshot.
 
 ## Game demo video link.
