@@ -68,3 +68,4 @@ This is our how to play to game:
 #### Game screenshot.
 
 #### Game demo video link.
+https://youtu.be/e2qOFeCb4Lg
