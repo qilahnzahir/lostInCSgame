@@ -1,7 +1,7 @@
 ## lostInCSgame
 text-based game in C++ for hackaton 2
 #### Game Description.
-
+a
 #### Features of game.
 
 #### How to play your game.
